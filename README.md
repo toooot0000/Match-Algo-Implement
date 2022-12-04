@@ -47,7 +47,6 @@ proj
 +-- IO.py               --> Handling input and output parts
 +-- track.py            --> Memory tracker and CPU time tracker
 +-- visualization.py    --> Visualize the time/Mem usage against problem size
-+-- Summary.txt         --> The summary file
 +-- basic.py 		--> The entry of basic algo
 +-- efficient.py 	--> The entry of memo-efficient algo
 
