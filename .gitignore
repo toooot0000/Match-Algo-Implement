@@ -1,7 +1,5 @@
 .env/
 .vscode/
-input/
-output/
 
 9954716612_*
 *.png
@@ -10,4 +8,6 @@ testFiles/
 __pycache__/
 
 .DS_Store
-*.txt
+*.out
+
+Summary.txt

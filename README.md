@@ -27,8 +27,8 @@ python3 -m venv venv
 ## Run The Project
 
 ```shell
-python3 9954716612_basic.py [inputFile = "input.txt"] [outputFile = "output.txt"]
-python3 9954716612_efficient.py [inputFile = "input.txt"] [outputFile = "output.txt"]
+python3 basic.py [inputFile = "input.txt"] [outputFile = "output.txt"]
+python3 efficient.py [inputFile = "input.txt"] [outputFile = "output.txt"]
 ```
 
 If `inputFile` is not given, the script will use `input.txt` in the same directory as the input file.
@@ -48,7 +48,7 @@ proj
 +-- track.py            --> Memory tracker and CPU time tracker
 +-- visualization.py    --> Visualize the time/Mem usage against problem size
 +-- Summary.txt         --> The summary file
-+-- 9954716612_basic.py --> The entry of basic algo
-+-- 9954716612_efficient.py --> The entry of memo-efficient algo
++-- basic.py --> The entry of basic algo
++-- efficient.py --> The entry of memo-efficient algo
 
 ```
